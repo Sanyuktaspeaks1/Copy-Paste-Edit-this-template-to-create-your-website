@@ -1,6 +1,7 @@
 # Copy-Paste-Edit-this-template-to-create-your-website
 You can copy paste and edit with the template I`ve given! Have fun change colour change blocks and add your own information!
-
+# If you are using VS Code for the first time go to this repository and then come back
+https://github.com/Sanyuktaspeaks1/website-in-10-mins-using-VS-Code/blob/main/README.md
 
 ```diff
 <!DOCTYPE html>
